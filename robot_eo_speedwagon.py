@@ -83,7 +83,7 @@ def format_reddit(stand, d):
     info += f'| Precision | {d["Stats"][0]["Precision"]} |\n'
     info += f'| Developmental Potential | {d["Stats"][0]["Developmental Potential"]} |\n'
 
-    info += '## Abilities\n'
+    info += '## Abilities / Attributes\n'
 
     a = ''
     for ability in d["Abilities"]:
@@ -110,7 +110,7 @@ def format_print(stand, d):
     info += f'\tPrecision: {d["Stats"][0]["Precision"]}\n'
     info += f'\tDevelopmental Potential: {d["Stats"][0]["Developmental Potential"]}\n\n'
 
-    info += 'Abilities\n'
+    info += 'Abilities / Attributes\n'
 
     a = ''
     for ability in d["Abilities"]:
@@ -122,8 +122,8 @@ def format_print(stand, d):
     return info
 
 def format_info(stand):
-    STANDS_JSON = '/home/ddmin/Code/Python/JoJo/stands.json'
-    STANDS_TXT = '/home/ddmin/Code/Python/JoJo/stands.txt'
+    STANDS_JSON = 'stands.json'
+    STANDS_TXT = 'stands.txt'
 
     with open(STANDS_JSON) as f:
         data = json.load(f)
