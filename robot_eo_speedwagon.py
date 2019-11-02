@@ -67,20 +67,7 @@ def match_stand(stands, stand_name):
 
     return match[0]
 
-
-def format_info(stand):
-    STANDS_JSON = '/home/ddmin/Code/Python/JoJo/stands.json'
-    STANDS_TXT = '/home/ddmin/Code/Python/JoJo/stands.txt'
-
-    with open(STANDS_JSON) as f:
-        data = json.load(f)
-
-    with open(STANDS_TXT) as f:
-        stands = f.read().split('\n')[:-1]
-
-    stand = match_stand(stands, stand)
-    d = data[stand]
-
+def format_reddit(stand, d):
     info = ''
 
     info += f'#「{stand}」\n'
@@ -106,6 +93,24 @@ def format_info(stand):
     info += f'\n ^(Information from {format_link(stand)})'
 
     return info
+
+
+def format_info(stand):
+    STANDS_JSON = '/home/ddmin/Code/Python/JoJo/stands.json'
+    STANDS_TXT = '/home/ddmin/Code/Python/JoJo/stands.txt'
+
+    with open(STANDS_JSON) as f:
+        data = json.load(f)
+
+    with open(STANDS_TXT) as f:
+        stands = f.read().split('\n')[:-1]
+
+    stand = match_stand(stands, stand)
+    d = data[stand]
+
+    body = format_reddit(stand, d)
+
+    return body
 
 def main():
     print('Enter「STAND」name:')
