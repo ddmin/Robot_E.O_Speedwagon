@@ -56,14 +56,7 @@ def match_stand(stands, stand_name):
     match = difflib.get_close_matches(stand_name, stands, n=1, cutoff=0.4)
 
     if not match:
-        print("Even Speedwagon doesn't know!")
-        print("Here's a random 「STAND」:")
-        print()
         return random.choice(stands)
-    else:
-        print("Yare Yare Daze, that name isn't in the database.")
-        print("Here's my guess:")
-        print()
 
     return match[0]
 
@@ -91,6 +84,7 @@ def format_reddit(stand, d):
     info += a
 
     info += f'\n ^(Information from {format_link(stand)})'
+    info += f'\n ^(This action was performed by a bot. Beep Boop)'
 
     return info
 
