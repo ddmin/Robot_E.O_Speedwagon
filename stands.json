@@ -1,0 +1,2470 @@
+{
+    "Star Platinum": {
+        "Stand User": "Jotaro Kujo",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "A",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Super Strength",
+            "Super Speed",
+            "Self-Preservation",
+            "Precision",
+            "Enhanced Eyesight",
+            "Enhanced Breath",
+            "Ora Ora Rush",
+            "Star Finger",
+            "Time Stop"
+        ]
+    },
+    "Magician's Red": {
+        "Stand User": "Muhammad Avdol",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Cross Fire Hurricane",
+            "Red Bind",
+            "Life Detector"
+        ]
+    },
+    "Hermit Purple": {
+        "Stand User": "Joseph Joestar",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "C",
+                "Range": "D",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Divination",
+            "Ripple Transmission"
+        ]
+    },
+    "Hierophant Green": {
+        "Stand User": "Noriaki Kakyoin",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Coiled Body",
+            "Marionette Control",
+            "Emerald Splash"
+        ]
+    },
+    "Silver Chariot": {
+        "Stand User": "Jean Pierre Polnareff",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "B",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Speed",
+            "Power",
+            "Precision",
+            "Armor On/Off",
+            "Shooting the Sword"
+        ]
+    },
+    "The Fool": {
+        "Stand User": "Iggy",
+        "Type": ["Close-Range Stand", "Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "C",
+                "Range": "D",
+                "Persistence": "C",
+                "Precision": "D",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Sand Manifestation",
+            "Shapeshifting"
+        ]
+    },
+    "The World": {
+        "Stand User": "DIO",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "B",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Super Strength",
+            "Super Senses",
+            "Super Speed",
+            "Super Precision",
+            "Time Stop"
+        ]
+    },
+    "Tower of Gray": {
+        "Stand User": "Gray Fly",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "A",
+                "Range": "A",
+                "Persistence": "C",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Secondary Jaw",
+            "High Speed"
+        ]
+    },
+    "Dark Blue Moon": {
+        "Stand User": "Impostor Captain Tennille",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Razor Scales",
+            "Barnacles"
+        ]
+    },
+    "Strength": {
+        "Stand User": "Forever",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "D",
+                "Range": "D",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Ship Manipulation"
+        ]
+    },
+    "Ebony Devil": {
+        "Stand User": "Deyo",
+        "Type": ["Long-Distance Stand", "Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "D",
+                "Range": "A",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Hatred Amplification"
+        ]
+    },
+    "Yellow Temperance": {
+        "Stand User": "Rubber Soul",
+        "Type": ["Close-Range Stand", "Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "C",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Assimilation",
+            "Appearance Replication",
+            "Physical Imperviousness"
+        ]
+    },
+    "Hanged Man": {
+        "Stand User": "J. Geil",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "A",
+                "Range": "A",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Light Manifestation",
+            "Wrist Knives"
+        ]
+    },
+    "Emperor": {
+        "Stand User": "Hol Horse",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "C",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Homing Bullets",
+            "Point-Blank Summon"
+        ]
+    },
+    "Empress": {
+        "Stand User": "Nena",
+        "Type": ["Bound Stand", "Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "E",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Parasitism"
+        ]
+    },
+    "Wheel of Fortune": {
+        "Stand User": "ZZ",
+        "Type": ["Bound Stand", "Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "D",
+                "Range": "D",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Transformation from Confidence",
+            "Gasoline Bullets",
+            "Radio Communication"
+        ]
+    },
+    "Justice": {
+        "Stand User": "Enya the Hag",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "E",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Fog String Puppetry",
+            "Illusions"
+        ]
+    },
+    "Lovers": {
+        "Stand User": "Steely Dan",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "D",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Pain Synchronisation",
+            "Organic Waste Clones",
+            "Spores Cultivation"
+        ]
+    },
+    "Sun": {
+        "Stand User": "Arabia Fats",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "E",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Sun Replica",
+            "Lasers"
+        ]
+    },
+    "Death Thirteen": {
+        "Stand User": "Mannish Boy",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "E",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Dream World Control"
+        ]
+    },
+    "Judgement": {
+        "Stand User": "Cameo",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Wish Granting"
+        ]
+    },
+    "High Priestess": {
+        "Stand User": "Midler",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Mineral Possession",
+            "Mineral Reformation"
+        ]
+    },
+    "Geb": {
+        "Stand User": "N'Doul",
+        "Type": ["Long-Distance Stand", "Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Water Amorphism"
+        ]
+    },
+    "Khnum": {
+        "Stand User": "Oingo",
+        "Type": ["Integrated Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Transfiguration"
+        ]
+    },
+    "Tohth": {
+        "Stand User": "Boingo",
+        "Type": ["Bound Stand", "Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Prediction"
+        ]
+    },
+    "Anubis": {
+        "Stand User": "n/a",
+        "Type": ["Automatic Stand", "Bound Stand", "Shared Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Mind Control",
+            "Selective Intangibility",
+            "Development",
+            "Selective Drawing"
+        ]
+    },
+    "Bastet": {
+        "Stand User": "Mariah",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Magnetic Attraction"
+        ]
+    },
+    "Sethan": {
+        "Stand User": "Alessi",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "D",
+                "Range": "E",
+                "Persistence": "C",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Shadow Reflection",
+            "Age Reversal"
+        ]
+    },
+    "Osiris": {
+        "Stand User": "Daniel J. D'Arby",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "D",
+                "Range": "D",
+                "Persistence": "C",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Soul Steal"
+        ]
+    },
+    "Horus": {
+        "Stand User": "Pet Shop",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "D",
+                "Persistence": "C",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Cryokinesis"
+        ]
+    },
+    "Atum": {
+        "Stand User": "Telence T. D'Arby",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "C",
+                "Range": "D",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Soul Steal",
+            "Binary Soul Reading"
+        ]
+    },
+    "Tenore Sax": {
+        "Stand User": "Kenny G.",
+        "Type": ["Unknown"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "D",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Illusion"
+        ]
+    },
+    "Cream": {
+        "Stand User": "Vanilla Ice",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "D",
+                "Persistence": "C",
+                "Precision": "C",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Void"
+        ]
+    },
+    "Crazy Diamond": {
+        "Stand User": "Josuke Higashikata",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "D",
+                "Persistence": "B",
+                "Precision": "B",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Super Strength",
+            "Super Speed",
+            "Precision",
+            "Restoration"
+        ]
+    },
+    "The Hand": {
+        "Stand User": "Okuyasu Nijimura",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "D",
+                "Persistence": "C",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Elimination of space"
+        ]
+    },
+    "Echoes Act 1": {
+        "Stand User": "Koichi Hirose",
+        "Type": ["Evolved Stand", "Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "B",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Sound Generation"
+        ]
+    },
+    "Echoes Act 2": {
+        "Stand User": "Koichi Hirose",
+        "Type": ["Evolved Stand", "Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "D",
+                "Range": "B",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Sound Effect"
+        ]
+    },
+    "Echoes Act 3": {
+        "Stand User": "Koichi Hirose",
+        "Type": ["Evolved Stand", "Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "C",
+                "Range": "D",
+                "Persistence": "C",
+                "Precision": "C",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "3 Freeze"
+        ]
+    },
+    "Heaven's Door": {
+        "Stand User": "Rohan Kishibe",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Book transmutation",
+            "Memory Removal",
+            "Written-In Commands"
+        ]
+    },
+    "Killer Queen": {
+        "Stand User": "Yoshikage Kira",
+        "Type": ["Close-Range Stand", "Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "D",
+                "Persistence": "B",
+                "Precision": "B",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Bomb Transmutation",
+            "Air Bomb Transmutation",
+            "Sheer Heart Attack",
+            "Bites the Dust"
+        ]
+    },
+    "Aqua Necklace": {
+        "Stand User": "Anjuro 'Angelo' Katagiri",
+        "Type": ["Bound Stand", "Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Liquid Form",
+            "Possession"
+        ]
+    },
+    "Bad Company": {
+        "Stand User": "Keicho Nijimura",
+        "Type": ["Colony Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Military Firepower"
+        ]
+    },
+    "Red Hot Chili Pepper": {
+        "Stand User": "Akira Otoishi",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Electricity Absorption",
+            "Electrical Transfer"
+        ]
+    },
+    "The Lock": {
+        "Stand User": "Tamami Kobayashi",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Guilt Increase",
+            "Lie detection"
+        ]
+    },
+    "Surface": {
+        "Stand User": "Toshikazu Hazamada",
+        "Type": ["Bound Stand", "Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Mimicry",
+            "Forced Synchronization"
+        ]
+    },
+    "Love Deluxe": {
+        "Stand User": "Yukako Yamagishi",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Hair Manipulation"
+        ]
+    },
+    "Pearl Jam": {
+        "Stand User": "Tonio Trussardi",
+        "Type": ["Colony Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "C",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Curative Cooking"
+        ]
+    },
+    "Achtung Baby": {
+        "Stand User": "Shizuka Joestar",
+        "Type": ["Integrated Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "Null",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Invisibility"
+        ]
+    },
+    "Ratt": {
+        "Stand User": "Bug-Eaten / Not Bug-Eaten",
+        "Type": ["Close-Range Stand", "Shared Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "C",
+                "Range": "D",
+                "Persistence": "B",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Melting Darts"
+        ]
+    },
+    "Harvest": {
+        "Stand User": "Shigekiyo 'Shigechi' Yangu",
+        "Type": ["Colony Stand", "Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Persistence",
+            "Strength in Numbers",
+            "Harvesting",
+            "Hypodermic Needle"
+        ]
+    },
+    "Cinderella": {
+        "Stand User": "Aya Tsuji",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "C",
+                "Precision": "A",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Body Part Replacement",
+            "Permanent Body Replacement"
+        ]
+    },
+    "Atom Heart Father": {
+        "Stand User": "Yoshihiro Kira",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "Null",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Supernatural Photography"
+        ]
+    },
+    "Boy II Man": {
+        "Stand User": "Ken Oyanagi",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Energy Theft via Rock Paper Scissors"
+        ]
+    },
+    "Earth Wind and Fire": {
+        "Stand User": "Mikitaka Hazekura",
+        "Type": ["Integrated Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "Null",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Shapeshifting",
+            "Regeneration"
+        ]
+    },
+    "Highway Star": {
+        "Stand User": "Yuya Fungami",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Room Creation",
+            "Enhanced Sense of Smell",
+            "Body Dismantlement",
+            "Life Force Theft"
+        ]
+    },
+    "Stray Cat": {
+        "Stand User": "Tama",
+        "Type": ["Integrated Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "E",
+                "Range": "Null",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Reincarnation",
+            "Plant/Cat Constitution",
+            "Aerokinesis"
+        ]
+    },
+    "Super Fly": {
+        "Stand User": "Toyohiro Kanedaichi",
+        "Type": ["Bound Stand", "Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "Null",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Occupant Restraint",
+            "Damage Reflection"
+        ]
+    },
+    "Enigma": {
+        "Stand User": "Terunosuke Miyamoto",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Paper Seal"
+        ]
+    },
+    "Cheap Trick": {
+        "Stand User": "n/a",
+        "Type": ["Automatic Stand", "Shared Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Attachment",
+            "Universal Speech"
+        ]
+    },
+    "Gold Experience": {
+        "Stand User": "Giorno Giovanna",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "D",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Life Giver",
+            "Life Shot",
+            "Flesh and Organ Creation",
+            "Life Sensor"
+        ]
+    },
+    "Sticky Fingers": {
+        "Stand User": "Bruno Bucciarati",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "D",
+                "Precision": "C",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Zippers"
+        ]
+    },
+    "Moody Blues": {
+        "Stand User": "Leone Abbacchio",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Chronological Rebroadcasting"
+        ]
+    },
+    "Sex Pistols": {
+        "Stand User": "Guido Mista",
+        "Type": ["Colony Stand", "Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "C",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "A",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Bullet Control",
+            "Enhanced Reloading"
+        ]
+    },
+    "Aerosmith": {
+        "Stand User": "Narancia Ghirga",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "C",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Machine Guns and Bomb",
+            "Carbon Dioxide Radar"
+        ]
+    },
+    "Purple Haze": {
+        "Stand User": "Pannacotta Fugo",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "E",
+                "Precision": "E",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Killer Virus Infection"
+        ]
+    },
+    "Purple Haze": {
+        "Stand User": "Pannacotta Fugo",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "E",
+                "Precision": "E",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Killer Virus Infection"
+        ]
+    },
+    "Spice Girl": {
+        "Stand User": "Trish Una",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Softening"
+        ]
+    },
+    "Chariot Requiem": {
+        "Stand User": "Jean Pierre Polnareff",
+        "Type": ["Requiem Stand", "Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Regeneration",
+            "Grand Scale Soul Manipulation",
+            "Stand Manipulation",
+            "Complete Alteration of All Life",
+            "Shadow Weakness"
+        ]
+    },
+    "Chariot Requiem": {
+        "Stand User": "Jean Pierre Polnareff",
+        "Type": ["Requiem Stand", "Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Regeneration",
+            "Grand Scale Soul Manipulation",
+            "Stand Manipulation",
+            "Complete Alteration of All Life",
+            "Shadow Weakness"
+        ]
+    },
+    "Gold Experience Requiem": {
+        "Stand User": "Giorno Giovanna",
+        "Type": ["Requiem Stand", "Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "Null",
+                "Range": "Null",
+                "Persistence": "Null",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Return to Zero",
+            "Life Giver"
+        ]
+    },
+    "King Crimson": {
+        "Stand User": "Diavolo / Vinegar Doppio",
+        "Type": ["Close-Range Stand", "Shared Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "E",
+                "Persistence": "E",
+                "Precision": "?",
+                "Developmental Potential": "?"
+             }
+        ],
+        "Abilities": [
+            "Time Erasure",
+            "Epitaph"
+        ]
+    },
+    "Black Sabbath": {
+        "Stand User": "Polpo",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "A",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Shadow Power",
+            "Soul Pull",
+            "Arrow Storage"
+        ]
+    },
+    "Soft Machine": {
+        "Stand User": "Mario Zucchero",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "C",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Pinch Deflating"
+        ]
+    },
+    "Kraft Work": {
+        "Stand User": "Sale",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "E",
+                "Persistence": "C",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Position Locking",
+            "Kinetic Energy Accumulation"
+        ]
+    },
+    "Little Feet": {
+        "Stand User": "Formaggio",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "B",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Shrinking"
+        ]
+    },
+    "Man in the Mirror": {
+        "Stand User": "Illuso",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "B",
+                "Persistence": "D",
+                "Precision": "C",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Mirror World Entry"
+        ]
+    },
+    "Mr. President": {
+        "Stand User": "Coco Jumbo",
+        "Type": ["Integrated Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Hidden Room"
+        ]
+    },
+    "Beach Boy": {
+        "Stand User": "Pesci",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "C",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Hook and Line",
+            "Extreme Line Sensibility",
+            "Damage Reflection"
+        ]
+    },
+    "The Grateful Dead": {
+        "Stand User": "Prosciutto",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "E",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Accelerated Aging"
+        ]
+    },
+    "Baby Face": {
+        "Stand User": "Melone",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Homunculus Generation",
+            "Computer",
+            "Matter Manipulation",
+            "Physical Growth and Aging"
+        ]
+    },
+    "White Album": {
+        "Stand User": "Ghiaccio",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Cryokinesis",
+            "Ice Armor",
+            "White Album Gently Weeps"
+        ]
+    },
+    "Clash": {
+        "Stand User": "Squalo",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "A",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "A",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Liquid Warp"
+        ]
+    },
+    "Talking Head": {
+        "Stand User": "Tiziano",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "True-Statement Elimination",
+            "Tongue Control"
+        ]
+    },
+    "Notorious B.I.G": {
+        "Stand User": "Carne",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "Infinite",
+                "Range": "Infinite",
+                "Persistence": "Infinite",
+                "Precision": "E",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Post-Mortem Activation",
+            "Energy Absorption",
+            "Partial Symbiosis",
+            "Speed Detection"
+        ]
+    },
+    "Metallica": {
+        "Stand User": "Risotto Nero",
+        "Type": ["Close-Range Stand", "Colony Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Iron Manipulation",
+            "Invisibility"
+        ]
+    },
+    "Green Day": {
+        "Stand User": "Cioccolata",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "C",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Mold Infestation",
+            "Dismemberment Control"
+        ]
+    },
+    "Oasis": {
+        "Stand User": "Secco",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Ground Liquefaction",
+            "Physical Enhancement"
+        ]
+    },
+    "Rolling Stones": {
+        "Stand User": "Automatic Stand",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Homing to Dying Target"
+        ]
+    },
+    "Stone Free": {
+        "Stand User": "Jolyne Kujoh",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "String Decomposition",
+            "Eavesdropping",
+            "Sharp Strings",
+            "Pickpocket",
+            "Bulletproof",
+            "Strangle",
+            "Stitch Wounds",
+            "Movement detection",
+            "Create complex patterns"
+        ]
+    },
+    "Kiss": {
+        "Stand User": "Ermes Costello",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Duplicating Stickers"
+        ]
+    },
+    "Burning Down the House": {
+        "Stand User": "Emporio Alnino",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "Null",
+                "Range": "Null",
+                "Persistence": "Null",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Ghost Objects"
+        ]
+    },
+    "Foo Fighters": {
+        "Stand User": "Foo Fighters",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Plankton Colony Form",
+            "Body Invasion",
+            "Water Control",
+            "Plankton Shot",
+            "Wound Seal"
+        ]
+    },
+    "Weather Report": {
+        "Stand User": "Weather Report",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Weather Control",
+            "Air and Wind Manipulation",
+            "Humidity and Cloud Manipulation",
+            "Oxygen Build-up",
+            "Heavy Weather",
+            "Snail Projection"
+        ]
+    },
+    "Diver Down": {
+        "Stand User": "Narciso Anasui",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "E",
+                "Persistence": "C",
+                "Precision": "B",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Stand Power Storage",
+            "Restructuring"
+        ]
+    },
+    "Whitesnake": {
+        "Stand User": "Enrico Pucci",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "?",
+                "Speed": "D",
+                "Range": "?",
+                "Persistence": "A",
+                "Precision": "?",
+                "Developmental Potential": "?"
+             }
+        ],
+        "Abilities": [
+            "Illusion",
+            "Disc Creation"
+        ]
+    },
+    "C-Moon": {
+        "Stand User": "Enrico Pucci",
+        "Type": ["Long-Distance Stand", "Evolved Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "?",
+                "Precision": "?",
+                "Developmental Potential": "?"
+             }
+        ],
+        "Abilities": [
+            "Gravity Shift",
+            "Surface Inversion",
+            "Time Acceleration"
+        ]
+    },
+    "Made in Heaven": {
+        "Stand User": "Enrico Pucci",
+        "Type": ["Close-Range Stand", "Evolved Stand", "Range Irrelevant Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "Infinite",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Time Acceleration",
+            "Consequences"
+        ]
+    },
+    "Goo Goo Dolls": {
+        "Stand User": "Gwess",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "C",
+                "Range": "B",
+                "Persistence": "D",
+                "Precision": "B",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Size Reduction"
+        ]
+    },
+    "Manhattan Transfer": {
+        "Stand User": "Johngalli A",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "A",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Wind Reading",
+            "Bullet Redirection"
+        ]
+    },
+    "Highway to Hell": {
+        "Stand User": "Thunder McQueen",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "A",
+                "Persistence": "C",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Damage Sharing"
+        ]
+    },
+    "Marilyn Manson": {
+        "Stand User": "Miraschon",
+        "Type": ["Long-Distance Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "A",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "A",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Debt Collection"
+        ]
+    },
+    "Jumpin' Jack Flash": {
+        "Stand User": "Lang Rangler",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "C",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Gravitational Removal",
+            "Built-in Centrifuges"
+        ]
+    },
+    "Limp Bizkit": {
+        "Stand User": "Sports Maxx",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Invisible Reincarnation"
+        ]
+    },
+    "Survivor": {
+        "Stand User": "Guccio",
+        "Type": ["Automatic Stand", "Colony Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "C",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Aggressiveness Stimulation"
+        ]
+    },
+    "Planet Waves": {
+        "Stand User": "Viviano Westwood",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Meteorite Attraction"
+        ]
+    },
+    "Dragon's Dream": {
+        "Stand User": "Kenzou",
+        "Type": ["Automatic Stand", "Sentient Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "Null",
+                "Range": "Null",
+                "Persistence": "A",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Feng Shui",
+            "Feng Shui Luck Reading",
+            "Neutrality"
+        ]
+    },
+    "Yo-Yo Ma": {
+        "Stand User": "D an G",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "D",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Acid Saliva"
+        ]
+    },
+    "Green, Green Grass of Home": {
+        "Stand User": "The Green Baby",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "?",
+                "Speed": "?",
+                "Range": "?",
+                "Persistence": "?",
+                "Precision": "?",
+                "Developmental Potential": "?"
+             }
+        ],
+        "Abilities": [
+            "Shrinking"
+        ]
+    },
+    "Jail House Lock": {
+        "Stand User": "Miuccia Miuller",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "C",
+                "Range": "B",
+                "Persistence": "A",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Short-term Memory Loss"
+        ]
+    },
+    "Bohemian Rhapsody": {
+        "Stand User": "Ungalo",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "Null",
+                "Range": "Infinity",
+                "Persistence": "A",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Fiction Realization"
+        ]
+    },
+    "Sky High": {
+        "Stand User": "Rikiel",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "Null",
+                "Range": "B",
+                "Persistence": "C",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Rods",
+            "Rod Manipulation",
+            "Heat Stealing"
+        ]
+    },
+    "Under World": {
+        "Stand User": "Donatello Versus",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "C",
+                "Range": "A",
+                "Persistence": "C",
+                "Precision": "Null",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Memory Unearthing"
+        ]
+    },
+    "Tusk Act 1": {
+        "Stand User": "Johnny Joestar",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "D",
+                "Persistence": "B",
+                "Precision": "E",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Spinning Nails"
+        ]
+    },
+    "Tusk Act 2": {
+        "Stand User": "Johnny Joestar",
+        "Type": ["Close-Range Stand", "Evolved Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "D",
+                "Range": "B",
+                "Persistence": "C",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Spinning Nails",
+            "Golden Rectangle Nails"
+        ]
+    },
+    "Tusk Act 3": {
+        "Stand User": "Johnny Joestar",
+        "Type": ["Close-Range Stand", "Evolved Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "D",
+                "Range": "B",
+                "Persistence": "D",
+                "Precision": "C",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Spinning Nails",
+            "Golden Rectangle Nails",
+            "Spatial Wormhole"
+        ]
+    },
+    "Tusk Act 4": {
+        "Stand User": "Johnny Joestar",
+        "Type": ["Close-Range Stand", "Evolved Stand", "Range Irrelevant Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "B",
+                "Range": "A",
+                "Persistence": "A",
+                "Precision": "B",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Spinning Nails",
+            "Golden Rectangle Nails",
+            "Spatial Wormhole",
+            "Infinite Rotation"
+        ]
+    },
+    "Ball Breaker": {
+        "Stand User": "Gyro Zeppeli",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "D",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Golden Spin"
+        ]
+    },
+    "Oh! Lonesome Me": {
+        "Stand User": "Mountain Tim",
+        "Type": ["Integrated Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Rope Transfer"
+        ]
+    },
+    "Scary Monsters": {
+        "Stand User": "Dr. Ferdinand / Diego Brando",
+        "Type": ["Integrated Stand", "Shared Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "B",
+                "Range": "D",
+                "Persistence": "A",
+                "Precision": "C",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Dinosaur Infection",
+            "Dinosaur Morph",
+            "Fossilization"
+        ]
+    },
+    "Cream Starter": {
+        "Stand User": "Hot Pants",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Flesh Spray"
+        ]
+    },
+    "Ticket to Ride": {
+        "Stand User": "Lucy Steel",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "C",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Blade of Tears",
+            "Divine Protection"
+        ]
+    },
+    "Dirty Deeds Done Dirt Cheap": {
+        "Stand User": "Funny Valentine",
+        "Type": ["Close-Range Stand", "Range Irrelevant Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "A",
+                "Developmental Potential": "A"
+             }
+        ],
+        "Abilities": [
+            "Dimension Hop",
+            "D4C -Love Train-",
+            "Misfortune Redirection"
+        ]
+    },
+    "In a Silent Way": {
+        "Stand User": "Sandman",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "D",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Sound Storage",
+            "Sound Construct"
+        ]
+    },
+    "Hey Ya!": {
+        "Stand User": "Pocoloco",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "B",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Cheering"
+        ]
+    },
+    "Tomb of the Boom": {
+        "Stand User": "Boom Boom Family",
+        "Type": ["Close-Range Stand", "Shared Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Magnetism"
+        ]
+    },
+    "Boku no Rhythm wo Kiitekure": {
+        "Stand User": "Oyecomova",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Contact Bombs"
+        ]
+    },
+    "Oye Como Va, Mi Ritmo": {
+        "Stand User": "Oyecomova",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "B",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "E",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Contact Bombs"
+        ]
+    },
+    "Wired": {
+        "Stand User": "Pork Pie Hat Kid",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "B",
+                "Range": "B",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Tongue Hooks"
+        ]
+    },
+    "Mandom": {
+        "Stand User": "Ringo Roadagain",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "A",
+                "Range": "Null",
+                "Persistence": "E",
+                "Precision": "Null",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Time Rewind"
+        ]
+    },
+    "Catch the Rainbow": {
+        "Stand User": "Blackmore",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "C",
+                "Speed": "C",
+                "Range": "B",
+                "Persistence": "B",
+                "Precision": "D",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Rain Manipulation"
+        ]
+    },
+    "Sugar Mountain": {
+        "Stand User": "Large Tree",
+        "Type": ["Bound Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "E",
+                "Speed": "E",
+                "Range": "E",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Appointing the Guardian",
+            "Trial of Avidity",
+            "Trial of Avarice"
+        ]
+    },
+    "Tattoo You!": {
+        "Stand User": "Eleven Men",
+        "Type": ["Close-Range Stand", "Shared Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "E",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "E",
+                "Developmental Potential": "E"
+             }
+        ],
+        "Abilities": [
+            "Body Slide"
+        ]
+    },
+    "Tubular Bells": {
+        "Stand User": "Mike O.",
+        "Type": ["Integrated Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "D",
+                "Speed": "D",
+                "Range": "D",
+                "Persistence": "A",
+                "Precision": "E",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Metal Blowing"
+        ]
+    },
+    "20th Century Boy": {
+        "Stand User": "Magent Magent",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "C",
+                "Range": "Null",
+                "Persistence": "A",
+                "Precision": "D",
+                "Developmental Potential": "C"
+             }
+        ],
+        "Abilities": [
+            "Absolute Defense"
+        ]
+    },
+    "Civil War": {
+        "Stand User": "Axl RO",
+        "Type": ["Automatic Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "C",
+                "Developmental Potential": "Null"
+             }
+        ],
+        "Abilities": [
+            "Guilt Materialization",
+            "Rebirth from Guilt"
+        ]
+    },
+    "Chocolate Disco": {
+        "Stand User": "D-I-S-C-O",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "Null",
+                "Speed": "C",
+                "Range": "C",
+                "Persistence": "B",
+                "Precision": "A",
+                "Developmental Potential": "D"
+             }
+        ],
+        "Abilities": [
+            "Teleporting Grid"
+        ]
+    },
+    "THE WORLD": {
+        "Stand User": "Diego Brando from Another Universe",
+        "Type": ["Close-Range Stand"],
+        "Stats": [
+            {
+                "Destructive Power": "A",
+                "Speed": "A",
+                "Range": "C",
+                "Persistence": "A",
+                "Precision": "B",
+                "Developmental Potential": "B"
+             }
+        ],
+        "Abilities": [
+            "Time Stop"
+        ]
+    }
+}
