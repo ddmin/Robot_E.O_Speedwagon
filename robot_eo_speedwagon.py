@@ -67,24 +67,25 @@ def format_reddit(stand, d):
     info += f'\tStand User: {d["Stand User"]}\n'
     info += f'\tType: {" / ".join(d["Type"])}\n\n'
 
-    info += '## Stats\n'
-    info += f'| Destructive Power | {d["Stats"][0]["Destructive Power"]} |\n'
+    info += '# Stats\n'
+    info += f'| Category | Value |\n'
     info += f'|:-:|:-:|\n'
+    info += f'| Destructive Power | {d["Stats"][0]["Destructive Power"]} |\n'
     info += f'| Speed | {d["Stats"][0]["Speed"]} |\n'
     info += f'| Range | {d["Stats"][0]["Range"]} |\n'
     info += f'| Persistence | {d["Stats"][0]["Persistence"]} |\n'
     info += f'| Precision | {d["Stats"][0]["Precision"]} |\n'
     info += f'| Developmental Potential | {d["Stats"][0]["Developmental Potential"]} |\n'
 
-    info += '## Abilities / Attributes\n'
+    info += '# Abilities / Attributes\n'
 
     a = ''
     for ability in d["Abilities"]:
-        a += f'\t* {ability}\n'
+        a += f'\t- {ability}\n'
     info += a
 
     info += f'\n ^(Information from {format_link(stand)})'
-    info += f'\n ^(This action was performed by a bot. Beep Boop)'
+    info += f'\n\n ^(This action was performed by a bot. Beep Boop.)'
 
     return info
 
