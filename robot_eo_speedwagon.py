@@ -17,12 +17,14 @@ def format_link(stand):
     return BASE + '_'.join(stand.split())
 
 
+# doesn't capitalize certain words
 def mod_cap(s):
     EXCEPTIONS = ['a', 'to', 'of', 'no', 'wo', 'in', 'the']
     if s not in EXCEPTIONS:
         return s.capitalize()
     return s
 
+# capitalize each word
 def caps(s):
     string = s.split()[0].capitalize() + ' '
     return string + ' '.join(list(map(lambda x: mod_cap(x.lower()), s.split()[1:])))
@@ -81,26 +83,27 @@ def format_info(stand):
 
     info = ''
 
-    info += f'「{stand}」\n'
+    info += f'#「{stand}」\n'
     info += f'\tStand User: {d["Stand User"]}\n'
     info += f'\tType: {" / ".join(d["Type"])}\n\n'
 
-    'Stats'
-    info += f'\tDestructive Power: {d["Stats"][0]["Destructive Power"]}\n'
-    info += f'\tSpeed: {d["Stats"][0]["Speed"]}\n'
-    info += f'\tRange: {d["Stats"][0]["Range"]}\n'
-    info += f'\tPersistence: {d["Stats"][0]["Persistence"]}\n'
-    info += f'\tPrecision: {d["Stats"][0]["Precision"]}\n'
-    info += f'\tDevelopmental Potential: {d["Stats"][0]["Developmental Potential"]}\n\n'
+    info += '## Stats\n'
+    info += f'| Destructive Power | {d["Stats"][0]["Destructive Power"]} |\n'
+    info += f'|:-:|:-:|\n'
+    info += f'| Speed | {d["Stats"][0]["Speed"]} |\n'
+    info += f'| Range | {d["Stats"][0]["Range"]} |\n'
+    info += f'| Persistence | {d["Stats"][0]["Persistence"]} |\n'
+    info += f'| Precision | {d["Stats"][0]["Precision"]} |\n'
+    info += f'| Developmental Potential | {d["Stats"][0]["Developmental Potential"]} |\n'
 
-    info += 'Abilities\n'
+    info += '## Abilities\n'
 
     a = ''
     for ability in d["Abilities"]:
-        a += f'\t- {ability}\n'
+        a += f'\t* {ability}\n'
     info += a
 
-    info += f'\n(Information from {format_link(stand)})'
+    info += f'\n ^(Information from {format_link(stand)})'
 
     return info
 
