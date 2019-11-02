@@ -48,10 +48,6 @@ def get_ids():
 
 
 def main():
-    # TODO: Delete this
-    with open('replied_to.txt', 'w') as f:
-        f.write('')
-
     print("Authenticating Robot E.O Speedwagon...")
     reddit = authenticate()
     print("Authenticated!\n")

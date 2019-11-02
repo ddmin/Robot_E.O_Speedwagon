@@ -95,6 +95,32 @@ def format_reddit(stand, d):
     return info
 
 
+def format_print(stand, d):
+    info = ''
+
+    info += f'「{stand}」\n'
+    info += f'\tStand User: {d["Stand User"]}\n'
+    info += f'\tType: {" / ".join(d["Type"])}\n\n'
+
+    info += 'Stats\n'
+    info += f'\tDestructive Power: {d["Stats"][0]["Destructive Power"]}\n'
+    info += f'\tSpeed: {d["Stats"][0]["Speed"]}\n'
+    info += f'\tRange: {d["Stats"][0]["Range"]}\n'
+    info += f'\tPersistence: {d["Stats"][0]["Persistence"]}\n'
+    info += f'\tPrecision: {d["Stats"][0]["Precision"]}\n'
+    info += f'\tDevelopmental Potential: {d["Stats"][0]["Developmental Potential"]}\n\n'
+
+    info += 'Abilities\n'
+
+    a = ''
+    for ability in d["Abilities"]:
+        a += f'\t- {ability}\n'
+    info += a
+
+    info += f'\n(Information from {format_link(stand)})'
+
+    return info
+
 def format_info(stand):
     STANDS_JSON = '/home/ddmin/Code/Python/JoJo/stands.json'
     STANDS_TXT = '/home/ddmin/Code/Python/JoJo/stands.txt'
@@ -108,7 +134,10 @@ def format_info(stand):
     stand = match_stand(stands, stand)
     d = data[stand]
 
-    body = format_reddit(stand, d)
+    if __name__ == '__main__':
+        body = format_print(stand, d)
+    else:
+        body = format_reddit(stand, d)
 
     return body
 
