@@ -2,6 +2,8 @@
     "Star Platinum": {
         "Stand User": "Jotaro Kujo",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The Star (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -27,6 +29,8 @@
     "Magician's Red": {
         "Stand User": "Muhammad Avdol",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The Magician (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -46,6 +50,8 @@
     "Hermit Purple": {
         "Stand User": "Joseph Joestar",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The Hermit (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -64,6 +70,8 @@
     "Hierophant Green": {
         "Stand User": "Noriaki Kakyoin",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "The Hierophant (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -83,6 +91,8 @@
     "Silver Chariot": {
         "Stand User": "Jean Pierre Polnareff",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The Chariot (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -104,6 +114,8 @@
     "The Fool": {
         "Stand User": "Iggy",
         "Type": ["Close-Range Stand", "Bound Stand"],
+        "Localized": "None",
+        "Namesake": "The Fool (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -122,6 +134,8 @@
     "The World": {
         "Stand User": "DIO",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The World (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -143,6 +157,8 @@
     "Tower of Gray": {
         "Stand User": "Gray Fly",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "The Tower (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -161,6 +177,8 @@
     "Dark Blue Moon": {
         "Stand User": "Impostor Captain Tennille",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The Moon (tarot card), Blue Moon (Rodgers/Hart song)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -179,6 +197,8 @@
     "Strength": {
         "Stand User": "Forever",
         "Type": ["Bound Stand"],
+        "Localized": "None",
+        "Namesake": "Strength (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -196,6 +216,8 @@
     "Ebony Devil": {
         "Stand User": "Deyo",
         "Type": ["Long-Distance Stand", "Bound Stand"],
+        "Localized": "None",
+        "Namesake": "The Devil (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -213,6 +235,8 @@
     "Yellow Temperance": {
         "Stand User": "Rubber Soul",
         "Type": ["Close-Range Stand", "Bound Stand"],
+        "Localized": "None",
+        "Namesake": "Temperance (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -232,6 +256,8 @@
     "Hanged Man": {
         "Stand User": "J. Geil",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "The Hanged Man (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -250,6 +276,8 @@
     "Emperor": {
         "Stand User": "Hol Horse",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The Emperor (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -268,6 +296,8 @@
     "Empress": {
         "Stand User": "Nena",
         "Type": ["Bound Stand", "Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "The Empress (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -285,6 +315,8 @@
     "Wheel of Fortune": {
         "Stand User": "ZZ",
         "Type": ["Bound Stand", "Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "Wheel of Fortune (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -304,6 +336,8 @@
     "Justice": {
         "Stand User": "Enya the Hag",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "Justice (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -322,6 +356,8 @@
     "Lovers": {
         "Stand User": "Steely Dan",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "The Lovers (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -341,6 +377,8 @@
     "Sun": {
         "Stand User": "Arabia Fats",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "The Sun (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -359,6 +397,8 @@
     "Death Thirteen": {
         "Stand User": "Mannish Boy",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "Death (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -376,6 +416,8 @@
     "Judgement": {
         "Stand User": "Cameo",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "Judgement (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -393,6 +435,8 @@
     "High Priestess": {
         "Stand User": "Midler",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "The High Priestess (tarot card)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -411,6 +455,8 @@
     "Geb": {
         "Stand User": "N'Doul",
         "Type": ["Long-Distance Stand", "Bound Stand"],
+        "Localized": "None",
+        "Namesake": "Geb (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -428,6 +474,8 @@
     "Khnum": {
         "Stand User": "Oingo",
         "Type": ["Integrated Stand"],
+        "Localized": "None",
+        "Namesake": "Khnum (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -445,6 +493,8 @@
     "Tohth": {
         "Stand User": "Boingo",
         "Type": ["Bound Stand", "Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "Thoth (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -462,6 +512,8 @@
     "Anubis": {
         "Stand User": "n/a",
         "Type": ["Automatic Stand", "Bound Stand", "Shared Stand"],
+        "Localized": "None",
+        "Namesake": "Anubis (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -482,6 +534,8 @@
     "Bastet": {
         "Stand User": "Mariah",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "Bastet (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -499,6 +553,8 @@
     "Sethan": {
         "Stand User": "Alessi",
         "Type": ["Bound Stand"],
+        "Localized": "None",
+        "Namesake": "Set (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -517,6 +573,8 @@
     "Osiris": {
         "Stand User": "Daniel J. D'Arby",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "Osiris (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -534,6 +592,8 @@
     "Horus": {
         "Stand User": "Pet Shop",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "Horus (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -551,6 +611,8 @@
     "Atum": {
         "Stand User": "Telence T. D'Arby",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "Atum (Egyptian god)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -569,6 +631,8 @@
     "Tenore Sax": {
         "Stand User": "Kenny G.",
         "Type": ["Unknown"],
+        "Localized": "None",
+        "Namesake": "Tenor Sax (musical instrument)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -586,6 +650,8 @@
     "Cream": {
         "Stand User": "Vanilla Ice",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "Cream (band)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -603,6 +669,8 @@
     "Crazy Diamond": {
         "Stand User": "Josuke Higashikata",
         "Type": ["Close-Range Stand"],
+        "Localized": "Shining Diamond",
+        "Namesake": "Shine on You Crazy Diamond (Pink Floyd song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -623,6 +691,8 @@
     "The Hand": {
         "Stand User": "Okuyasu Nijimura",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "The Band (band)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -640,6 +710,8 @@
     "Echoes Act 1": {
         "Stand User": "Koichi Hirose",
         "Type": ["Evolved Stand", "Long-Distance Stand"],
+        "Localized": "Reverb",
+        "Namesake": "Echoes (Pink Floyd song)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -657,6 +729,8 @@
     "Echoes Act 2": {
         "Stand User": "Koichi Hirose",
         "Type": ["Evolved Stand", "Long-Distance Stand"],
+        "Localized": "Reverb",
+        "Namesake": "Echoes (Pink Floyd song)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -674,6 +748,8 @@
     "Echoes Act 3": {
         "Stand User": "Koichi Hirose",
         "Type": ["Evolved Stand", "Close-Range Stand"],
+        "Localized": "Reverb",
+        "Namesake": "Echoes (Pink Floyd song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -691,6 +767,8 @@
     "Heaven's Door": {
         "Stand User": "Rohan Kishibe",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "Knockin' on Heaven's Door (Bob Dylan song)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -710,6 +788,8 @@
     "Killer Queen": {
         "Stand User": "Yoshikage Kira",
         "Type": ["Close-Range Stand", "Automatic Stand"],
+        "Localized": "Deadly Queen",
+        "Namesake": "Killer Queen (Queen song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -730,6 +810,8 @@
     "Aqua Necklace": {
         "Stand User": "Anjuro 'Angelo' Katagiri",
         "Type": ["Bound Stand", "Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "Aqua (Asia album)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -748,6 +830,8 @@
     "Bad Company": {
         "Stand User": "Keicho Nijimura",
         "Type": ["Colony Stand"],
+        "Localized": "Worse Company",
+        "Namesake": "Bad Company (band / song / album)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -765,6 +849,8 @@
     "Red Hot Chili Pepper": {
         "Stand User": "Akira Otoishi",
         "Type": ["Long-Distance Stand"],
+        "Localized": "Chili Pepper",
+        "Namesake": "Red Hot Chili Peppers (band)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -783,6 +869,8 @@
     "The Lock": {
         "Stand User": "Tamami Kobayashi",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "The Rock (The Who song)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -801,6 +889,8 @@
     "Surface": {
         "Stand User": "Toshikazu Hazamada",
         "Type": ["Bound Stand", "Automatic Stand"],
+        "Localized": "Show Off",
+        "Namesake": "Surface (band)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -819,6 +909,8 @@
     "Love Deluxe": {
         "Stand User": "Yukako Yamagishi",
         "Type": ["Bound Stand"],
+        "Localized": "Love Extra (Eyes of Heaven)",
+        "Namesake": "Love Deluxe (Sade album)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -836,6 +928,8 @@
     "Pearl Jam": {
         "Stand User": "Tonio Trussardi",
         "Type": ["Colony Stand"],
+        "Localized": "Pole Jam (anime), Opal Jam (All Star Battle)",
+        "Namesake": "Pearl Jam (band)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -853,6 +947,8 @@
     "Achtung Baby": {
         "Stand User": "Shizuka Joestar",
         "Type": ["Integrated Stand"],
+        "Localized": "Invisible Baby",
+        "Namesake": "Achtung Baby (U2 album)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -870,6 +966,8 @@
     "Ratt": {
         "Stand User": "Bug-Eaten / Not Bug-Eaten",
         "Type": ["Close-Range Stand", "Shared Stand"],
+        "Localized": "None",
+        "Namesake": "Ratt (band)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -887,6 +985,8 @@
     "Harvest": {
         "Stand User": "Shigekiyo 'Shigechi' Yangu",
         "Type": ["Colony Stand", "Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "Harvest (Neil Young song / album)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -907,6 +1007,8 @@
     "Cinderella": {
         "Stand User": "Aya Tsuji",
         "Type": ["Close-Range Stand"],
+        "Localized": "Fashionista (Eyes of Heaven)",
+        "Namesake": "Cinderella (band)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -925,6 +1027,8 @@
     "Atom Heart Father": {
         "Stand User": "Yoshihiro Kira",
         "Type": ["Bound Stand"],
+        "Localized": "Heart Father",
+        "Namesake": "Atom Heart Mother (Pink Floyd song / album)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -942,6 +1046,8 @@
     "Boy II Man": {
         "Stand User": "Ken Oyanagi",
         "Type": ["Close-Range Stand"],
+        "Localized": "Boys Man Man (anime), BoyManMan (All Star Battle)",
+        "Namesake": "Boyz II Men (vocal group)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -959,6 +1065,8 @@
     "Earth Wind and Fire": {
         "Stand User": "Mikitaka Hazekura",
         "Type": ["Integrated Stand"],
+        "Localized": "Terra Ventus",
+        "Namesake": "Earth, Wind & Fire (band)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -977,6 +1085,8 @@
     "Highway Star": {
         "Stand User": "Yuya Fungami",
         "Type": ["Long-Distance Stand"],
+        "Localized": "Yuya Fungami",
+        "Namesake": "Highway Star (Deep Purple song)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -997,6 +1107,8 @@
     "Stray Cat": {
         "Stand User": "Tama",
         "Type": ["Integrated Stand"],
+        "Localized": "Feral Cat (All Star Battle)",
+        "Namesake": "Stray Cats (band / album)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1016,6 +1128,8 @@
     "Super Fly": {
         "Stand User": "Toyohiro Kanedaichi",
         "Type": ["Bound Stand", "Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "Superfly (Curtis Mayfield album)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1034,6 +1148,8 @@
     "Enigma": {
         "Stand User": "Terunosuke Miyamoto",
         "Type": ["Close-Range Stand"],
+        "Localized": "Misterioso",
+        "Namesake": "Enigma (electronic musical project)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1051,6 +1167,8 @@
     "Cheap Trick": {
         "Stand User": "n/a",
         "Type": ["Automatic Stand", "Shared Stand"],
+        "Localized": "Cheap Trap",
+        "Namesake": "Cheap Trick (band)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1069,6 +1187,8 @@
     "Gold Experience": {
         "Stand User": "Giorno Giovanna",
         "Type": ["Close-Range Stand"],
+        "Localized": "Golden Wind",
+        "Namesake": "The Gold Experience (Prince album)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1089,6 +1209,8 @@
     "Sticky Fingers": {
         "Stand User": "Bruno Bucciarati",
         "Type": ["Close-Range Stand"],
+        "Localized": "Zipper Man",
+        "Namesake": "Sticky Fingers (The Rolling Stones album)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1106,6 +1228,8 @@
     "Moody Blues": {
         "Stand User": "Leone Abbacchio",
         "Type": ["Close-Range Stand"],
+        "Localized": "Moody Jazz",
+        "Namesake": "The Moody Blues (band)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1123,6 +1247,8 @@
     "Sex Pistols": {
         "Stand User": "Guido Mista",
         "Type": ["Colony Stand", "Long-Distance Stand"],
+        "Localized": "Six Bullets",
+        "Namesake": "Sex Pisols (band)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1141,6 +1267,8 @@
     "Aerosmith": {
         "Stand User": "Narancia Ghirga",
         "Type": ["Long-Distance Stand"],
+        "Localized": "Li'l Bomber",
+        "Namesake": "Aerosmith (band)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1159,23 +1287,8 @@
     "Purple Haze": {
         "Stand User": "Pannacotta Fugo",
         "Type": ["Close-Range Stand"],
-        "Stats": [
-            {
-                "Destructive Power": "A",
-                "Speed": "B",
-                "Range": "C",
-                "Persistence": "E",
-                "Precision": "E",
-                "Developmental Potential": "B"
-             }
-        ],
-        "Abilities": [
-            "Killer Virus Infection"
-        ]
-    },
-    "Purple Haze": {
-        "Stand User": "Pannacotta Fugo",
-        "Type": ["Close-Range Stand"],
+        "Localized": "Purple Smoke",
+        "Namesake": "Purple Haze (Jimi Hendrix song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1193,6 +1306,8 @@
     "Spice Girl": {
         "Stand User": "Trish Una",
         "Type": ["Close-Range Stand"],
+        "Localized": "Spicy Lady",
+        "Namesake": "Spice Girls (pop group)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1210,27 +1325,8 @@
     "Chariot Requiem": {
         "Stand User": "Jean Pierre Polnareff",
         "Type": ["Requiem Stand", "Automatic Stand"],
-        "Stats": [
-            {
-                "Destructive Power": "E",
-                "Speed": "E",
-                "Range": "A",
-                "Persistence": "A",
-                "Precision": "E",
-                "Developmental Potential": "A"
-             }
-        ],
-        "Abilities": [
-            "Regeneration",
-            "Grand Scale Soul Manipulation",
-            "Stand Manipulation",
-            "Complete Alteration of All Life",
-            "Shadow Weakness"
-        ]
-    },
-    "Chariot Requiem": {
-        "Stand User": "Jean Pierre Polnareff",
-        "Type": ["Requiem Stand", "Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "Silver Chariot (stand), Requiem (Mozart)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1252,6 +1348,8 @@
     "Gold Experience Requiem": {
         "Stand User": "Giorno Giovanna",
         "Type": ["Requiem Stand", "Close-Range Stand"],
+        "Localized": "Golden Wind Requiem",
+        "Namesake": "Gold Experience (stand), Requiem (Mozart)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1270,6 +1368,8 @@
     "King Crimson": {
         "Stand User": "Diavolo / Vinegar Doppio",
         "Type": ["Close-Range Stand", "Shared Stand"],
+        "Localized": "Emperor Crimson, Eulogy (Epitaph)",
+        "Namesake": "King Crimson (band), Epitaph (King Crimson song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1288,6 +1388,8 @@
     "Black Sabbath": {
         "Stand User": "Polpo",
         "Type": ["Automatic Stand"],
+        "Localized": "Shadow Sabbath",
+        "Namesake": "Black Sabbath (band / song / album)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1307,6 +1409,8 @@
     "Soft Machine": {
         "Stand User": "Mario Zucchero",
         "Type": ["Close-Range Stand"],
+        "Localized": "Tender Machine",
+        "Namesake": "Soft Machine (band)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1324,6 +1428,8 @@
     "Kraft Work": {
         "Stand User": "Sale",
         "Type": ["Close-Range Stand"],
+        "Localized": "Arts & Crafts",
+        "Namesake": "Kraftwerk (music project)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1342,6 +1448,8 @@
     "Little Feet": {
         "Stand User": "Formaggio",
         "Type": ["Close-Range Stand"],
+        "Localized": "Tiny Feet",
+        "Namesake": "Little Feat (band / song / album)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -1359,6 +1467,8 @@
     "Man in the Mirror": {
         "Stand User": "Illuso",
         "Type": ["Long-Distance Stand"],
+        "Localized": "Mirror Man",
+        "Namesake": "Man in the Mirror (Michael Jackson song)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1376,6 +1486,8 @@
     "Mr. President": {
         "Stand User": "Coco Jumbo",
         "Type": ["Integrated Stand"],
+        "Localized": "None",
+        "Namesake": "Mr. President (band)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1393,6 +1505,8 @@
     "Beach Boy": {
         "Stand User": "Pesci",
         "Type": ["Close-Range Stand"],
+        "Localized": "Fisher Man",
+        "Namesake": "The Beach Boys (band)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1412,6 +1526,8 @@
     "The Grateful Dead": {
         "Stand User": "Prosciutto",
         "Type": ["Long-Distance Stand"],
+        "Localized": "The Thankful Dead",
+        "Namesake": "The Grateful Dead (band)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1429,6 +1545,8 @@
     "Baby Face": {
         "Stand User": "Melone",
         "Type": ["Automatic Stand"],
+        "Localized": "Babyhead",
+        "Namesake": "Kenneth 'Babyface' Edmonds (musican)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1449,6 +1567,8 @@
     "White Album": {
         "Stand User": "Ghiaccio",
         "Type": ["Close-Range Stand"],
+        "Localized": "White Ice",
+        "Namesake": "White Album (The Beatles album), While My Guitar Gently Weeps (The Beatles song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1468,6 +1588,8 @@
     "Clash": {
         "Stand User": "Squalo",
         "Type": ["Long-Distance Stand"],
+        "Localized": "Crush",
+        "Namesake": "The Clash (band)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -1485,6 +1607,8 @@
     "Talking Head": {
         "Stand User": "Tiziano",
         "Type": ["Long-Distance Stand"],
+        "Localized": "Talking Mouth",
+        "Namesake": "Talking Heads (band)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1503,6 +1627,8 @@
     "Notorious B.I.G": {
         "Stand User": "Carne",
         "Type": ["Automatic Stand"],
+        "Localized": "Notorious Chase",
+        "Namesake": "The Notorious B.I.G (rapper)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1523,6 +1649,8 @@
     "Metallica": {
         "Stand User": "Risotto Nero",
         "Type": ["Close-Range Stand", "Colony Stand"],
+        "Localized": "Metallic",
+        "Namesake": "Metallica (band / album)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1541,6 +1669,8 @@
     "Green Day": {
         "Stand User": "Cioccolata",
         "Type": ["Close-Range Stand"],
+        "Localized": "Green Tea",
+        "Namesake": "Green Day (band)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1559,6 +1689,8 @@
     "Oasis": {
         "Stand User": "Secco",
         "Type": ["Close-Range Stand"],
+        "Localized": "Sanctuary",
+        "Namesake": "Oasis (band)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1577,6 +1709,8 @@
     "Rolling Stones": {
         "Stand User": "Automatic Stand",
         "Type": ["Close-Range Stand"],
+        "Localized": "Prophecy Stones",
+        "Namesake": "The Rolling Stones (band)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1594,6 +1728,8 @@
     "Stone Free": {
         "Stand User": "Jolyne Kujoh",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1619,6 +1755,8 @@
     "Kiss": {
         "Stand User": "Ermes Costello",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1636,6 +1774,8 @@
     "Burning Down the House": {
         "Stand User": "Emporio Alnino",
         "Type": ["Bound Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1653,6 +1793,8 @@
     "Foo Fighters": {
         "Stand User": "Foo Fighters",
         "Type": ["Bound Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1674,6 +1816,8 @@
     "Weather Report": {
         "Stand User": "Weather Report",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1696,6 +1840,8 @@
     "Diver Down": {
         "Stand User": "Narciso Anasui",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1714,6 +1860,8 @@
     "Whitesnake": {
         "Stand User": "Enrico Pucci",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "?",
@@ -1732,6 +1880,8 @@
     "C-Moon": {
         "Stand User": "Enrico Pucci",
         "Type": ["Long-Distance Stand", "Evolved Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1751,6 +1901,8 @@
     "Made in Heaven": {
         "Stand User": "Enrico Pucci",
         "Type": ["Close-Range Stand", "Evolved Stand", "Range Irrelevant Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1769,6 +1921,8 @@
     "Goo Goo Dolls": {
         "Stand User": "Gwess",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -1786,6 +1940,8 @@
     "Manhattan Transfer": {
         "Stand User": "Johngalli A",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1804,6 +1960,8 @@
     "Highway to Hell": {
         "Stand User": "Thunder McQueen",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1821,6 +1979,8 @@
     "Marilyn Manson": {
         "Stand User": "Miraschon",
         "Type": ["Long-Distance Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1838,6 +1998,8 @@
     "Jumpin' Jack Flash": {
         "Stand User": "Lang Rangler",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1856,6 +2018,8 @@
     "Limp Bizkit": {
         "Stand User": "Sports Maxx",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1873,6 +2037,8 @@
     "Survivor": {
         "Stand User": "Guccio",
         "Type": ["Automatic Stand", "Colony Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1890,6 +2056,8 @@
     "Planet Waves": {
         "Stand User": "Viviano Westwood",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1907,6 +2075,8 @@
     "Dragon's Dream": {
         "Stand User": "Kenzou",
         "Type": ["Automatic Stand", "Sentient Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1926,6 +2096,8 @@
     "Yo-Yo Ma": {
         "Stand User": "D an G",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1943,6 +2115,8 @@
     "Green, Green Grass of Home": {
         "Stand User": "The Green Baby",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "?",
@@ -1960,6 +2134,8 @@
     "Jail House Lock": {
         "Stand User": "Miuccia Miuller",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1977,6 +2153,8 @@
     "Bohemian Rhapsody": {
         "Stand User": "Ungalo",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1994,6 +2172,8 @@
     "Sky High": {
         "Stand User": "Rikiel",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2013,6 +2193,8 @@
     "Under World": {
         "Stand User": "Donatello Versus",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2030,6 +2212,8 @@
     "Tusk Act 1": {
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2047,6 +2231,8 @@
     "Tusk Act 2": {
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand", "Evolved Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2065,6 +2251,8 @@
     "Tusk Act 3": {
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand", "Evolved Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2084,6 +2272,8 @@
     "Tusk Act 4": {
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand", "Evolved Stand", "Range Irrelevant Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -2104,6 +2294,8 @@
     "Ball Breaker": {
         "Stand User": "Gyro Zeppeli",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -2121,6 +2313,8 @@
     "Oh! Lonesome Me": {
         "Stand User": "Mountain Tim",
         "Type": ["Integrated Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2138,6 +2332,8 @@
     "Scary Monsters": {
         "Stand User": "Dr. Ferdinand / Diego Brando",
         "Type": ["Integrated Stand", "Shared Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -2157,6 +2353,8 @@
     "Cream Starter": {
         "Stand User": "Hot Pants",
         "Type": ["Bound Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2174,6 +2372,8 @@
     "Ticket to Ride": {
         "Stand User": "Lucy Steel",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2192,6 +2392,8 @@
     "Dirty Deeds Done Dirt Cheap": {
         "Stand User": "Funny Valentine",
         "Type": ["Close-Range Stand", "Range Irrelevant Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -2211,6 +2413,8 @@
     "In a Silent Way": {
         "Stand User": "Sandman",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -2229,6 +2433,8 @@
     "Hey Ya!": {
         "Stand User": "Pocoloco",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2246,6 +2452,8 @@
     "Tomb of the Boom": {
         "Stand User": "Boom Boom Family",
         "Type": ["Close-Range Stand", "Shared Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2263,6 +2471,8 @@
     "Boku no Rhythm wo Kiitekure": {
         "Stand User": "Oyecomova",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -2280,6 +2490,8 @@
     "Oye Como Va, Mi Ritmo": {
         "Stand User": "Oyecomova",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -2297,6 +2509,8 @@
     "Wired": {
         "Stand User": "Pork Pie Hat Kid",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2314,6 +2528,8 @@
     "Mandom": {
         "Stand User": "Ringo Roadagain",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2331,6 +2547,8 @@
     "Catch the Rainbow": {
         "Stand User": "Blackmore",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -2348,6 +2566,8 @@
     "Sugar Mountain": {
         "Stand User": "Large Tree",
         "Type": ["Bound Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2367,6 +2587,8 @@
     "Tattoo You!": {
         "Stand User": "Eleven Men",
         "Type": ["Close-Range Stand", "Shared Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2384,6 +2606,8 @@
     "Tubular Bells": {
         "Stand User": "Mike O.",
         "Type": ["Integrated Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2401,6 +2625,8 @@
     "20th Century Boy": {
         "Stand User": "Magent Magent",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2418,6 +2644,8 @@
     "Civil War": {
         "Stand User": "Axl RO",
         "Type": ["Automatic Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2436,6 +2664,8 @@
     "Chocolate Disco": {
         "Stand User": "D-I-S-C-O",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2453,6 +2683,8 @@
     "THE WORLD": {
         "Stand User": "Diego Brando from Another Universe",
         "Type": ["Close-Range Stand"],
+        "Localized": "None",
+        "Namesake": "namesake",
         "Stats": [
             {
                 "Destructive Power": "A",

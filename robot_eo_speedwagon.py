@@ -1,5 +1,6 @@
 # TODO:
 # Add Localized Name and Namesake
+# Add Part 8
 
 
 # Interface for the Stand JSON file
