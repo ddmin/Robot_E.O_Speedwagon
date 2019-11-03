@@ -2,7 +2,9 @@
 import robot_eo_speedwagon
 import config
 import praw
+
 import time
+import os
 
 # return a Reddit instance
 def authenticate():
@@ -48,6 +50,10 @@ def get_ids():
 
 
 def main():
+    if not os.path.exists('replied_to.txt'):
+        with open('replied_to.txt', 'w') as f:
+            f.write('')
+
     print("Authenticating Robot E.O Speedwagon...")
     reddit = authenticate()
     print("Authenticated!\n")
