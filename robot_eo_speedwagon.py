@@ -45,8 +45,8 @@ def match_stand(stands, stand_name):
 
     # alias dictionary
     aliases = {
-                'Ger': 'Gold Experience Requiem',
-                'D4c': 'Dirty Deeds Done Dirt Cheap',
+                'Ger ': 'Gold Experience Requiem',
+                'D4c ': 'Dirty Deeds Done Dirt Cheap',
                }
 
     # Check for aliases
