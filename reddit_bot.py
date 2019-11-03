@@ -20,17 +20,23 @@ def authenticate():
 
 # run the bot. Takes in a Reddit instance
 def run_bot(reddit):
-    TRIGGER = '!speedwagon'
+    TRIGGERS = ['!spw', '!speedwagon']
 
     ids = get_ids()
 
     for comment in reddit.subreddit("test").comments(limit=None):
 
-        if TRIGGER + ' ' in comment.body and comment.id not in ids:
+        if (TRIGGERS[0] + ' ' in comment.body or TRIGGERS[1] + ' ' in comment.body) and comment.id not in ids:
             # Only look at words after !speedwagon
             s = comment.body.split()
-            index = s.index(TRIGGER) + 1
-            stand = ' '.join(s[index:])
+
+            if TRIGGERS[0] in comment.body:
+                index = s.index(TRIGGERS[0]) + 1
+                stand = ' '.join(s[index:])
+
+            elif TRIGGERS[1] in comment.body:
+                index = s.index(TRIGGERS[1]) + 1
+                stand = ' '.join(s[index:])
 
             body = robot_eo_speedwagon.format_info(stand)
 
