@@ -70,7 +70,13 @@ def format_reddit(stand, d):
 
     info += f'#「{stand}」\n'
     info += f'\tStand User: {d["Stand User"]}\n'
-    info += f'\tType: {" / ".join(d["Type"])}\n\n'
+    info += f'\tType: {" / ".join(d["Type"])}\n'
+
+    # check for localized name
+    if d["Localized"] != "None":
+        info += f'\tLocalized Name: {d["Localized"]}\n'
+
+    info += f'\tNamesake: {d["Namesake"]}\n\n'
 
     info += '# Stats\n'
     info += f'| Category | Value |\n'
@@ -100,7 +106,13 @@ def format_print(stand, d):
 
     info += f'「{stand}」\n'
     info += f'\tStand User: {d["Stand User"]}\n'
-    info += f'\tType: {" / ".join(d["Type"])}\n\n'
+    info += f'\tType: {" / ".join(d["Type"])}\n'
+
+    # check for localized name
+    if d["Localized"] != "None":
+        info += f'\tLocalized Name: {d["Localized"]}\n'
+
+    info += f'\tNamesake: {d["Namesake"]}\n\n'
 
     info += 'Stats\n'
     info += f'\tDestructive Power: {d["Stats"][0]["Destructive Power"]}\n'
