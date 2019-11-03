@@ -1,3 +1,7 @@
+# TODO:
+# Add Localized Name and Namesake
+
+
 # Interface for the Stand JSON file
 import json
 import random
