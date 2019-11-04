@@ -24,7 +24,7 @@ def run_bot(reddit):
 
     ids = get_ids()
 
-    for comment in reddit.subreddit("all").comments(limit=None):
+    for comment in reddit.subreddit("all").comments(limit=256):
 
         if (TRIGGERS[0] + ' ' in comment.body or TRIGGERS[1] + ' ' in comment.body) and comment.id not in ids:
             # Only look at words after !speedwagon
