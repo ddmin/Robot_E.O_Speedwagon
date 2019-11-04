@@ -1728,8 +1728,8 @@
     "Stone Free": {
         "Stand User": "Jolyne Kujoh",
         "Type": ["Close-Range Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Stone Ocean",
+        "Namesake": "Stone Free (Jimi Hendrix song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1755,8 +1755,8 @@
     "Kiss": {
         "Stand User": "Ermes Costello",
         "Type": ["Close-Range Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Smack",
+        "Namesake": "KISS (band), Kiss (Prince song)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1774,8 +1774,8 @@
     "Burning Down the House": {
         "Stand User": "Emporio Alnino",
         "Type": ["Bound Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Burning Down",
+        "Namesake": "Burning Down the House (Talking Heads song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1794,7 +1794,7 @@
         "Stand User": "Foo Fighters",
         "Type": ["Bound Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Foo Fighters (band)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1816,8 +1816,8 @@
     "Weather Report": {
         "Stand User": "Weather Report",
         "Type": ["Close-Range Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Weather Forecast",
+        "Namesake": "Weather Report (band)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1840,8 +1840,8 @@
     "Diver Down": {
         "Stand User": "Narciso Anasui",
         "Type": ["Close-Range Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Diver Drive",
+        "Namesake": "Diver Down (Van Halen album)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -1860,8 +1860,8 @@
     "Whitesnake": {
         "Stand User": "Enrico Pucci",
         "Type": ["Long-Distance Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Pale Snake",
+        "Namesake": "Whitesnake (band / album)",
         "Stats": [
             {
                 "Destructive Power": "?",
@@ -1880,8 +1880,8 @@
     "C-Moon": {
         "Stand User": "Enrico Pucci",
         "Type": ["Long-Distance Stand", "Evolved Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Full Moon",
+        "Namesake": "C Moon (Wings song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -1901,8 +1901,8 @@
     "Made in Heaven": {
         "Stand User": "Enrico Pucci",
         "Type": ["Close-Range Stand", "Evolved Stand", "Range Irrelevant Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Maiden Heaven",
+        "Namesake": "Made in Heaven (Freddie Mercury song / Queen album), Stairway To Heaven (Led Zeppelin song)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -1921,8 +1921,8 @@
     "Goo Goo Dolls": {
         "Stand User": "Gwess",
         "Type": ["Long-Distance Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Cry Cry Dolls",
+        "Namesake": "Goo Goo Dolls (band)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -1941,7 +1941,7 @@
         "Stand User": "Johngalli A",
         "Type": ["Long-Distance Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "The Manhattan Transfer (vocal group)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1960,8 +1960,8 @@
     "Highway to Hell": {
         "Stand User": "Thunder McQueen",
         "Type": ["Automatic Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Highway to Death",
+        "Namesake": "Highway to Hell (AC/DC song / album)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -1980,7 +1980,7 @@
         "Stand User": "Miraschon",
         "Type": ["Long-Distance Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Marilyn Manson (band / singer)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -1999,7 +1999,7 @@
         "Stand User": "Lang Rangler",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Jumpin' Jack Flash (The Rolling Stones song)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -2018,8 +2018,8 @@
     "Limp Bizkit": {
         "Stand User": "Sports Maxx",
         "Type": ["Automatic Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Flaccid Pancake",
+        "Namesake": "Limp Bizkit (band)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2038,7 +2038,7 @@
         "Stand User": "Guccio",
         "Type": ["Automatic Stand", "Colony Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Survivor (band)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2057,7 +2057,7 @@
         "Stand User": "Viviano Westwood",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Planet Waves (Bob Dylan album)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -2076,7 +2076,7 @@
         "Stand User": "Kenzou",
         "Type": ["Automatic Stand", "Sentient Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "The Dragon's Dream (Thom Brennan song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2097,7 +2097,7 @@
         "Stand User": "D an G",
         "Type": ["Automatic Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Yo-Yo Ma (musician)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -2116,7 +2116,7 @@
         "Stand User": "The Green Baby",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Green, Green Grass of Home (Porter Wagoner song)",
         "Stats": [
             {
                 "Destructive Power": "?",
@@ -2135,7 +2135,7 @@
         "Stand User": "Miuccia Miuller",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Jailhouse Rock (Elvis Presley song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2154,7 +2154,7 @@
         "Stand User": "Ungalo",
         "Type": ["Automatic Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Bohemian Rhapsody (Queen song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2173,7 +2173,7 @@
         "Stand User": "Rikiel",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Sky High (Jigsaw song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2194,7 +2194,7 @@
         "Stand User": "Donatello Versus",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Underworld (band)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2213,7 +2213,7 @@
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Tusk (Fleetwood Mac song / album)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2232,7 +2232,7 @@
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand", "Evolved Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Tusk (Fleetwood Mac song / album)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2252,7 +2252,7 @@
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand", "Evolved Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Tusk (Fleetwood Mac song / album)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2273,7 +2273,7 @@
         "Stand User": "Johnny Joestar",
         "Type": ["Close-Range Stand", "Evolved Stand", "Range Irrelevant Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Tusk (Fleetwood Mac song / album)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -2295,7 +2295,7 @@
         "Stand User": "Gyro Zeppeli",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Ballbreaker (AC/DC song / album)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -2314,7 +2314,7 @@
         "Stand User": "Mountain Tim",
         "Type": ["Integrated Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Oh! Lonesome Me (Don Gibson song)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2332,8 +2332,8 @@
     "Scary Monsters": {
         "Stand User": "Dr. Ferdinand / Diego Brando",
         "Type": ["Integrated Stand", "Shared Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Frightening Monsters",
+        "Namesake": "Scary Monsters (David Bowie song / album)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -2354,7 +2354,7 @@
         "Stand User": "Hot Pants",
         "Type": ["Bound Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Firestarter (Prodigy song)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2373,7 +2373,7 @@
         "Stand User": "Lucy Steel",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Ticket to Ride (The Beatles song)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2392,8 +2392,8 @@
     "Dirty Deeds Done Dirt Cheap": {
         "Stand User": "Funny Valentine",
         "Type": ["Close-Range Stand", "Range Irrelevant Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Filthy Acts at a Reasonable Price",
+        "Namesake": "Dirty Deeds Done Dirt Cheap (AC/DC song / album)",
         "Stats": [
             {
                 "Destructive Power": "A",
@@ -2413,8 +2413,8 @@
     "In a Silent Way": {
         "Stand User": "Sandman",
         "Type": ["Close-Range Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Silent Ways",
+        "Namesake": "In a Silent Way (Miles Davis album)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -2434,7 +2434,7 @@
         "Stand User": "Pocoloco",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Hey Ya! (OutKast song)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2452,8 +2452,8 @@
     "Tomb of the Boom": {
         "Stand User": "Boom Boom Family",
         "Type": ["Close-Range Stand", "Shared Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Tomb of the Noise",
+        "Namesake": "Tomb of the Boom (OutKast song)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2472,7 +2472,7 @@
         "Stand User": "Oyecomova",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Oye Como Va (Tito Puente / Santana song)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -2491,7 +2491,7 @@
         "Stand User": "Oyecomova",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Oye Como Va (Tito Puente / Santana song)",
         "Stats": [
             {
                 "Destructive Power": "B",
@@ -2510,7 +2510,7 @@
         "Stand User": "Pork Pie Hat Kid",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Wired (Jeff Beck album)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2528,8 +2528,8 @@
     "Mandom": {
         "Stand User": "Ringo Roadagain",
         "Type": ["Close-Range Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Mando",
+        "Namesake": "Lovers of the World (Jerry Wallace song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2548,7 +2548,7 @@
         "Stand User": "Blackmore",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Catch the Rainbow (Rainbow song / album)",
         "Stats": [
             {
                 "Destructive Power": "C",
@@ -2566,8 +2566,8 @@
     "Sugar Mountain": {
         "Stand User": "Large Tree",
         "Type": ["Bound Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Snow Mountain",
+        "Namesake": "Sugar Mountain (Neil Young song)",
         "Stats": [
             {
                 "Destructive Power": "E",
@@ -2588,7 +2588,7 @@
         "Stand User": "Eleven Men",
         "Type": ["Close-Range Stand", "Shared Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Tattoo You (The Rolling Stones album)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2606,8 +2606,8 @@
     "Tubular Bells": {
         "Stand User": "Mike O.",
         "Type": ["Integrated Stand"],
-        "Localized": "None",
-        "Namesake": "namesake",
+        "Localized": "Tubular",
+        "Namesake": "Tubular Bells (Mike Oldfield album)",
         "Stats": [
             {
                 "Destructive Power": "D",
@@ -2626,7 +2626,7 @@
         "Stand User": "Magent Magent",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "20th Century Boy (T. Rex song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2645,7 +2645,7 @@
         "Stand User": "Axl RO",
         "Type": ["Automatic Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Civil War (Guns N' Roses song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2665,7 +2665,7 @@
         "Stand User": "D-I-S-C-O",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "Chocolate Disco (Perfume song)",
         "Stats": [
             {
                 "Destructive Power": "Null",
@@ -2684,7 +2684,7 @@
         "Stand User": "Diego Brando from Another Universe",
         "Type": ["Close-Range Stand"],
         "Localized": "None",
-        "Namesake": "namesake",
+        "Namesake": "The World (stand)",
         "Stats": [
             {
                 "Destructive Power": "A",
