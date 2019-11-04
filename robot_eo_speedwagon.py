@@ -13,7 +13,10 @@ def format_link(stand):
     # Stand names that overlap with people
     EXCEPTIONS = ['Weather Report', 'Sugar Mountain']
     if stand in EXCEPTIONS:
-        stand = stand + ' (Stand)'
+        if __name__ == '__main__':
+            stand = stand + ' (Stand)'
+        else:
+            stand = stand + ' (Stand\)'
 
     if stand == 'Oye Como Va, Mi Ritmo':
         stand = 'Boku no Rhythm wo Kiitekure'
@@ -47,6 +50,7 @@ def match_stand(stands, stand_name):
     aliases = {
                 'Ger ': 'Gold Experience Requiem',
                 'D4c ': 'Dirty Deeds Done Dirt Cheap',
+                'Ff ': 'Foo Fighters'
                }
 
     # Check for aliases
