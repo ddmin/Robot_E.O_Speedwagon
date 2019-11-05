@@ -19,12 +19,13 @@ def authenticate():
 
 
 # run the bot. Takes in a Reddit instance
-def run_bot(reddit):
+def run_bot(reddit, subreddits):
     TRIGGERS = ['!spw', '!speedwagon']
+    SUBREDDITS = '+'.join(subreddits)
 
     ids = get_ids()
 
-    for comment in reddit.subreddit("all").comments(limit=None):
+    for comment in reddit.subreddit(SUBREDDITS).comments(limit=None):
 
         if (TRIGGERS[0] + ' ' in comment.body or TRIGGERS[1] + ' ' in comment.body) and comment.id not in ids:
             # Only look at words after !speedwagon
@@ -56,6 +57,9 @@ def get_ids():
 
 
 def main():
+    # active subreddits
+    SUBREDDITS = ['Robot_EO_Speedwagon', 'test']
+
     if not os.path.exists('replied_to.txt'):
         with open('replied_to.txt', 'w') as f:
             f.write('')
@@ -66,7 +70,7 @@ def main():
 
     while True:
         try:
-            run_bot(reddit)
+            run_bot(reddit, SUBREDDITS)
         except:
             print('An error has occurred. Sleeping for 10 seconds.')
             time.sleep(10)
