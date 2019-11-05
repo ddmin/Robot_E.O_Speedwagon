@@ -3,7 +3,7 @@
 
 A JoJo's Bizarre Adventure Stand Encyclopedia Bot.
 
-[speedwagon](https://github.com/ddmin/Robot_E.O_Speedwagon/blob/master/robot_eo_speedwagon.png)
+![speedwagon](https://github.com/ddmin/Robot_E.O_Speedwagon/blob/master/robot_eo_speedwagon.png)
 
 config.py
 ```
