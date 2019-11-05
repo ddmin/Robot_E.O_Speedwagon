@@ -3,7 +3,9 @@
 
 A JoJo's Bizarre Adventure Stand Encyclopedia Bot.
 
-![speedwagon](https://github.com/ddmin/Robot_E.O_Speedwagon/blob/master/speedwagon.png)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ddmin/Robot_E.O_Speedwagon/blob/master/speedwagon.png">
+</p>
 
 config.py
 ```
