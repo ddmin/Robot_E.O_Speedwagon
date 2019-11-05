@@ -1,5 +1,4 @@
 # TODO:
-# Add Localized Name and Namesake
 # Add Part 8
 
 
