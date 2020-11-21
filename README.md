@@ -1,5 +1,4 @@
 # Robot E.O Speedwagon
-[/u/Robot_EO_Speedwagon](https://www.reddit.com/user/Robot_EO_Speedwagon) on Reddit
 
 A JoJo's Bizarre Adventure Stand Encyclopedia Bot.
 
